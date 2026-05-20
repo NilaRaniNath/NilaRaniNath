@@ -40,17 +40,21 @@ I am a passionate **Full Stack Web Developer** specializing in the **MERN Stack*
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-FF6F61?style=for-the-badge&logo=google-ads&logoColor=white)
 
+
 ---
 
 ### 📊 GitHub Stats & Badges
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilaRaniNath&theme=onedark&no-bg=true&margin-w=4" alt="Nila's GitHub Trophies" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NilaRaniNath&theme=tokyonight&hide_border=true&v=202" alt="GitHub Streak" width="100%" />
 </p>
 
+<br />
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NilaRaniNath&theme=dark" alt="Top Languages" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NilaRaniNath&theme=dark" alt="GitHub Profile Details" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilaRaniNath&layout=compact&theme=tokyonight&hide_border=true&v=202" alt="Top Languages" width="49%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=NilaRaniNath&show_icons=true&theme=tokyonight&hide_border=true&v=202" alt="GitHub Stats" width="49%" />
 </p>
 
 ---
@@ -68,8 +72,8 @@ I am a passionate **Full Stack Web Developer** specializing in the **MERN Stack*
 <br />
 
 <p align="left">
-  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a> 
-  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> 
-  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> 
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a> 
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40"></a> 
+  <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> 
   <a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35"></a>
 </p>
