@@ -78,15 +78,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN Stack**
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NilaRaniNath&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilaRaniNath&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -108,11 +100,7 @@ I'm a passionate **Full Stack Web Developer** specializing in the **MERN Stack**
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NilaRaniNath&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
 
 ---
 
